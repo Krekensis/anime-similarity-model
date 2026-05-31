@@ -1,0 +1,4 @@
+/notebooks
+
+/datasets/*
+!/datasets/anime_db_enriched_compact.json
